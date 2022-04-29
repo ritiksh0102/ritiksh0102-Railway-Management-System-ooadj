@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088972068381",
+    "project_id": "ooad-project-84171",
+    "storage_bucket": "ooad-project-84171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088972068381:android:05ffe887a2aa1f976798f4",
+        "android_client_info": {
+          "package_name": "com.example.rms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088972068381-antpk50k7f3jqq535a0uf9qcdgnengi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTPzzAVvzDw2UmpEF8g6OI3fWQPY7u-ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088972068381-antpk50k7f3jqq535a0uf9qcdgnengi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
